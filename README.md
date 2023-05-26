@@ -15,4 +15,4 @@ s = abcdef
 
 Print abc def
 
-#### **Solution:**  Kindly access this [Day-6](..\30-Days-Hackerrank\Day6.cpp)
+#### **Solution:**  Kindly access this [Day-6](Day6.cpp)
